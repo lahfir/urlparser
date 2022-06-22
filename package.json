@@ -1,0 +1,19 @@
+{
+  "name": "urlparser",
+  "version": "1.0.0",
+  "description": "Lighweight api to extract url's from complex strings in milli second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahfir/urlparser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lahfir/urlparser/issues"
+  },
+  "homepage": "https://github.com/lahfir/urlparser#readme"
+}
