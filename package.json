@@ -1,0 +1,15 @@
+{
+  "name": "urlparser",
+  "version": "1.0.0",
+  "description": "This is an amazing web app/api to parse url's from string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "parser"
+  ],
+  "author": "lahfir",
+  "license": "ISC"
+}
