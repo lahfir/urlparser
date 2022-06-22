@@ -3,7 +3,6 @@ const app = express();
 const bodyParser = require("body-parser");
 // const stringExtractor = require("./stringExtractor");
 const PORT = process.env.PORT || 3000;
-const { fork } = require("child_process");
 const stringExtractor = require("./stringExtractor");
 
 app.use(bodyParser.json());

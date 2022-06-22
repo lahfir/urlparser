@@ -4,6 +4,7 @@
   "description": "Lighweight api to extract url's from complex strings in milli second",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "nodemon index.js"
   },
   "repository": {
